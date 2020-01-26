@@ -28,3 +28,6 @@ let m : Int = 9
 var flotante = 18.8
 var flot : Double
 
+//Declaraciones booleanas
+var cedulaProfesional = false
+var cedulaMaestria: Bool = false
